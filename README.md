@@ -36,3 +36,11 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+
+
+Phase 1:
+Four bugs that I found were that the attempts count did not change after giving the first attempt causing it to miscount, the new game button does not restart the game properly once over with a round, as it still says game over and to restart the game, the hints are not proper as it says to go higher when we should be going lower and vice versa, and the enter button does not work to enter your guess, as you have to manually click the submit guess button.
+
+
+Phase 2:
+Some guiding hints I would give to students would be to look over the functions within app.py to help them spot the area or function in which would make sense for them to look over to fix their bugs. This also will help them when prompting AI, as it will be more clear for both parties as they give specifications. Another guiding hint when it comes to prompting AI would be to give it the issues and then first ask it to explain in simple terms how to fix this issue without implementation. This can help students to actually understand what the AI is doing as well as help teh AI work better with specification as it is breaking down the problem first before implementing the code right away. 
